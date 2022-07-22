@@ -1,4 +1,4 @@
-> Programming is a nowadays real magic
+> Programming is a modern real magic
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dominux&hide=html,css,scss,sass,less,dockerfile,shell,vue,svelte,makefile,procfile&langs_count=10&custom_title=Top%20Used%20Languges&card_width=495&cache_seconds=3600" />
