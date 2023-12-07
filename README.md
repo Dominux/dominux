@@ -1,3 +1,7 @@
+> _We, like the god, create programs in our image and likeness_
+
+— Me
+
 <h1>
  ✨ Programming 
 <br/>
